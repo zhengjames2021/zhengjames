@@ -1,0 +1,79 @@
+body {
+  background-image: url(../image/golfcourse.png);
+  background-repeat: no-repeat;
+  background-size:100% 160%;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 20px;
+  color: green;
+  text-align: center;
+  font-size: 40px
+  }
+
+  .drivecart {
+  height: 385px;
+  width: 155px;
+
+
+}
+.driveball {
+  position: absolute;
+  left: 350px;
+  top: 200px;
+  height: 385px;
+  width: 155px;
+  
+}
+.usgolf {
+  position: absolute;
+  left: 1200px;
+  height:200px;
+  width:150px;
+  top:400px;
+  border-width: 5px;
+  border-style: solid;
+  border-color:green;
+}
+.golfwhitecoat {
+  position: absolute;
+  left: 100px;
+  height:200px;
+  width:150px;
+  top:100px;
+  border-width: 5px;
+  border-style: solid;
+  border-color:green;
+}
+.flag {
+  position: absolute;
+  left: 100px;
+  height:200px;
+  width:150px;
+  top:450px;
+  border-width: 5px;
+  border-style: solid;
+  border-color:green;
+}
+.greencoat {
+  position: absolute;
+  left: 1100px;
+  height:200px;
+  width:150px;
+  top:100px;
+  border-width: 5px;
+  border-style: solid;
+  border-color:green;
+}
+.myback {
+  position: absolute;
+  left: 940px;
+  height:200px;
+  width:150px;
+  top:450px;
+  border-width: 5px;
+  border-style: solid;
+  border-color:green;
+}
